@@ -4023,7 +4023,7 @@ img{
 	background-color: #000;
 	margin-bottom:3em;
 }
-#about_me .sector1 p{margin:0; padding:0;}
+#about_me .sector1 p{margin:0 0 20px; padding:0;}
 #about_me .sector1 .title_hi{
 	font-size:20px;
 	color:#000;
